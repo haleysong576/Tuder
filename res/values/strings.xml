@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tuder</string>
+    <string name="prompt_email">Username/email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="sign_up">Don\'t have an account?</string>
+    <string name="signButton">Sign up</string>
+    <string name="student">I am a student</string>
+    <string name="tutor">I am a tutor</string>
+    <string name="student_profile">My Student Profile</string>
+    <string name="tutor_profile">My Tutor Profile</string>
+    <string name="name">Full Name</string>
+    <string name="exampleName">Jone Doe</string>
+    <string name="tutorName">John Smith</string>
+    <string name="education">Education</string>
+    <string name="highschool">Grade 12</string>
+    <string name="uni">University of Waterloo</string>
+    <string name="subject">Subjects</string>
+    <string name="physics">Physics</string>
+    <string name="availability">Availability</string>
+    <string name="available">Monday and Friday</string>
+    <string name="price">Price Range</string>
+    <string name="money">$$</string>
+</resources>
