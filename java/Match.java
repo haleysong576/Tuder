@@ -38,7 +38,7 @@ public class Match extends AppCompatActivity {
         chat.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent chatScreen = new Intent(getApplicationContext(), Chat.class);
+                Intent chatScreen = new Intent(getApplicationContext(), GeneralDm.class);
                 startActivity(chatScreen);
             }
         });
@@ -47,7 +47,7 @@ public class Match extends AppCompatActivity {
         chatting.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent chatScreen = new Intent(getApplicationContext(), Chat.class);
+                Intent chatScreen = new Intent(getApplicationContext(), GeneralDm.class);
                 startActivity(chatScreen);
             }
         });
